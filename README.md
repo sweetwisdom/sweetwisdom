@@ -1,4 +1,4 @@
-![image](https://github.com/sweetwisdom/sweetwisdom/assets/57869305/1f5c0316-0061-4d01-ad1c-bc16b73a09f7)<h1 align="center">Hi 👋, I'm Mr.Zhang</h1>
+Hi 👋, I'm Mr.Zhang</h1>
 <h3 align="center">A passionate frontend developer from WuHan HuBei</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweetwisdom&label=Profile%20views&color=0e75b6&style=flat" alt="sweetwisdom" /> </p>
