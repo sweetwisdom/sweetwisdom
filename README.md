@@ -8,9 +8,8 @@ Hi 👋, I'm Mr.Zhang</h1>
 - 🌱 I’m currently learning **python**
 - 👯 I’m looking to collaborate on [electron-ffmpeg](https://github.com/sweetwisdom/electron-ffmpeg)
 - 👨‍💻 All of my projects are available at [https://github.com/sweetwisdom/](https://github.com/sweetwisdom/)
-- 📝 I regularly write articles on [blog📒](https://sweetwisdom.top/myblog/)
 - 💬 Ask me about **vue,javascript,react**
-- 📫 How to reach me **sweetwisdom@qq.com**
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
